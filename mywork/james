@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+   <html>
+    <head>
+        <style>
+            
+            body{
+                background-color: green;
+            }
+        </style>
+    </head>
+     <body>
+    <hi> STYLING IN CSS </hi>
+    <p colour="red"> I want to be styled red </p>
+    <p class="centered"> I want to be alighned to the centre and styled green </p>
+    <p> background colour be green </p>
+     </body>
+   </html>
